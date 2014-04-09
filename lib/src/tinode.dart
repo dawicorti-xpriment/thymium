@@ -33,6 +33,7 @@ class TiNode {
       myel.append(childEl);
     });
 
+    return myel;
   }
 
 }

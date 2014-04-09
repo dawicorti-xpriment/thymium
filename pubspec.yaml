@@ -1,6 +1,6 @@
 name: thymium
 description: ThymeLeaf template for Titanium
-version: 0.0.1
+version: 0.0.2
 author: David Corticchiato
 homepage: https://github.com/dawicorti/thymium
 dependencies:
