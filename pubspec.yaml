@@ -1,0 +1,5 @@
+name: thymium
+description: ThymeLeaf template for Titanium
+dependencies:
+  xmlstream: 0.8.15
+  tiel: any

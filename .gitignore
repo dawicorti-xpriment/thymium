@@ -1,0 +1,9 @@
+build
+build.log
+tmp
+._*
+.DS_Store
+*.lock
+Resources
+packages
+
